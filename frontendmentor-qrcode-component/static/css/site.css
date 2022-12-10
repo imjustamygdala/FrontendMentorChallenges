@@ -1,0 +1,95 @@
+/* #region reset */
+
+:root {
+    --ff-primary: "Outfit", sans-serif;
+    --fw-400: 400;
+    --fw-700: 700;
+
+    --clr-white: hsl(0, 0%, 100%);
+    --clr-light-gray: hsl(212, 45%, 89%);
+    --clr-grayish-blue: hsl(220, 15%, 55%);
+    --clr-dark-blue: hsl(218, 44%, 22%);
+}
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+max-width: 100%;
+display: block;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+}
+
+/* Set core body defaults */
+body {
+    min-height: 100vh;
+    text-rendering: optimizeSpeed;
+}
+
+/* #endregion */
+
+/* #region flex */
+
+.qr-grid-item-content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+
+    max-width: 350px;
+}
+
+/* #endregion */
+
+body {
+    display: grid;
+    place-content: center;
+
+    font-family: var(--ff-primary);
+    background-color: var(--clr-light-gray);
+}
+
+.qr-grid-item-content {
+    background-color: var(--clr-white);
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0,0,0,.25);
+    text-align: center;
+    padding: 1rem;
+}
+
+.qr-grid-item-content img {
+    border-radius: .5rem;
+}
+
+.qr-grid-item-content h2 {
+    font-size: 1.5em;
+    font-weight: var(--fw-700);
+    color: var(--clr-dark-blue);
+
+    margin-block: 1rem;
+}
+
+.qr-grid-item-content p {
+    font-size: 15px;
+    font-weight: var(--fw-400);
+    color: var(--clr-grayish-blue);
+    
+    margin-bottom: 1rem;
+    padding-inline: 2rem;
+}
