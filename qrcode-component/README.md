@@ -20,7 +20,7 @@ This was a faily simple challenge that took me only an hour or two to have the H
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./wwwroot/screenshot.png)
 <p>Screenshot from solution at 1440px</p>
 
 ### Links
