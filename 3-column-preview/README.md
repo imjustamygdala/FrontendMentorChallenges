@@ -4,16 +4,18 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Frontend Mentor - 3-column preview card component solution](#frontend-mentor---3-column-preview-card-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 ## Overview
 I'm starting to better understand CSS Grid and general CSS principles, and this has been my fastest completed project to date. I didn't struggle too much with this project and I was able to create most of this without having to use external resources, so that was a small win for me. Overall, this was a fun project to build and solidifies what I've been learning so far.
@@ -33,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-FmVIPKPoBT)
-- Live Site URL: [Github Page](https://imjustamygdala.github.io/frontendmentor-3-column-preview/)
+- Live Site URL: [Github Page](https://imjustamygdala.github.io/FrontendMentorChallenges/3-column-preview/)
 
 ## My process
 I really enjoy working with CSS Grid and prefer it to CSS Flex when creating the core structure of a site, for now at least :D. I begin with looking at both mobile and desktop design files so I can determine the HTML5 markup, and then I focus on the mobile design and layout once the core of the HTML is written.
@@ -86,7 +88,7 @@ As I'm learning about semantic HTML, I still don't always know when it's "best p
 
 ### Useful resources
 
-- [Kevin Powell's Youtube](https://www.youtube.com/@KevinPowell) - I utilized what I learned from the previous project, [Product Preview Card Component](https://github.com/imjustamygdala/frontendmentor-product-preview), which utilized several of Kevin's video's.
+- [Kevin Powell's Youtube](https://www.youtube.com/@KevinPowell) - I utilized what I learned from the previous project, [Product Preview Card Component](https://github.com/imjustamygdala/FrontendMentorChallenges/tree/main/product-preview), which utilized several of Kevin's video's.
 
 ## Author
 

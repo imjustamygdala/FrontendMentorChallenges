@@ -4,16 +4,18 @@ This is a solution to the [Product Preview Card Component Challenge on Frontend 
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Frontend Mentor - Product Preview Card Component Solution](#frontend-mentor---product-preview-card-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 ## Overview
 This challenge was fairly easy to structure within the HTML, but creating a layout for the container that contained the product information proved to be difficult for me. This was a fun challenge, but I ultimately had to use a Kevin Powell video that went over this challenge for help. However, I was able to create a very similar HTML markup and layout within CSS for the image container and product info container, but I needed help with tying everything together, which is where the video came in handy.
@@ -35,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [Github Page](https://imjustamygdala.github.io/frontendmentor-product-preview/)
+- Live Site URL: [Github Page](https://imjustamygdala.github.io/FrontendMentorChallenges/product-preview/)
 
 ## My process
 I started with a basic HTML structure and I knew that I would need a container for the product, a container for the image, a container for the product content, and a container for the prices.

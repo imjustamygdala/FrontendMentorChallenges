@@ -4,16 +4,18 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Frontend Mentor - Four card feature section solution](#frontend-mentor---four-card-feature-section-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 ## Overview
 
@@ -31,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-7LSj56tfC0)
-- Live Site URL: [Github Page](https://imjustamygdala.github.io/frontendmentor-four-card-feature/)
+- Live Site URL: [Github Page](https://imjustamygdala.github.io/FrontendMentorChallenges/four-card-feature/)
 
 ## My process
 I really enjoy working with CSS Grid and prefer it to CSS Flex when creating the core structure of a site, for now at least :D. I begin with looking at both mobile and desktop design files so I can determine the HTML5 markup, and then I focus on the mobile design and layout once the core of the HTML is written.

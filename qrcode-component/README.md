@@ -4,15 +4,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Frontend Mentor - QRcode Component Solution](#frontend-mentor---qrcode-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 ## Overview
 
@@ -26,7 +28,7 @@ This was a faily simple challenge that took me only an hour or two to have the H
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-qrcode-card-using-css-grids-dtSzXOg1s6)
-- Live Site URL: [Github Page](https://imjustamygdala.github.io/frontendmentor-qrcode-component/)
+- Live Site URL: [Github Page](https://imjustamygdala.github.io/FrontendMentorChallenges/qrcode-component/)
 
 ## My process
 
